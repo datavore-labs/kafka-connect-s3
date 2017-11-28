@@ -1,5 +1,8 @@
 # Kafka Connect S3
 
+# Datavore fork
++ `gradle publish` - to push to our private maven repo
+
 [![CircleCI](https://circleci.com/gh/spredfast/kafka-connect-s3.svg?style=shield)](https://circleci.com/gh/spredfast/kafka-connect-s3)
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.spredfast.kafka.connect.s3/kafka-connect-s3/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.spredfast.kafka.connect.s3/kafka-connect-s3)
