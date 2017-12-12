@@ -1,6 +1,7 @@
 # Kafka Connect S3
 
 # Datavore fork
++ the last git tag is used as the gradle version
 + `gradle publish` - to push to our private maven repo
 
 [![CircleCI](https://circleci.com/gh/spredfast/kafka-connect-s3.svg?style=shield)](https://circleci.com/gh/spredfast/kafka-connect-s3)
